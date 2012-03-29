@@ -1,7 +1,7 @@
 == Basic Tricks ==
 
 Rather than diving into a sea of Git commands, use these elementary examples to
-get your feet wet. Despite their simplicity, each of them are useful.
+get your feet wet. Despite their simplicity, each of them is useful.
 Indeed, in my first months with Git I never ventured beyond the material in this chapter.
 
 === Saving State ===
